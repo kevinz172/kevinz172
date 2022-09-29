@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi, I'm Kevin Zuñiga <a> <br> <img aling="left" width="360" height="300" src="https://github.com/kevinz172/kevinz172/blob/cc6b22d1564a9012411cacd4a4e18e5a33fe14bb/bien.gif" /></a></h1>
+<h1 align="center">¡Hi, I'm Kevin Zuñiga <a> <br> <img aling="left" width="360" height="290" src="https://github.com/kevinz172/kevinz172/blob/e50527532cbfa375b4fc09742b8c5a9775a7cdaa/hola.gif" /></a></h1>
 
 ---
 <h3 align="center"> Future UTB systems engineer 🎓⚡​ </h3>
